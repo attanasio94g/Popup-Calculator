@@ -1,0 +1,26 @@
+#calculator 
+{
+	width: 280px;
+	height: 260px;
+}
+
+.top .screen 
+{
+	height: 38px;
+	width: 179px;
+}
+
+.keys span, .top span.clear 
+{
+	width: 54px;
+	height: 34px;
+}
+
+#calculator {
+	font: bold 16px Arial, sans-serif;
+}
+
+html, body
+{
+	height: 260px;
+}
